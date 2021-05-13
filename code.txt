@@ -1,3 +1,5 @@
 Recipe
 
-1) add milk
+1) add flour
+2) add eggs
+3) add milk
