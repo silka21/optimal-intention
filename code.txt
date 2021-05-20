@@ -2,10 +2,14 @@ Recipe book
 
 Cake recipe
 1) add milk
-2) add eggs
+2) add flour
+3) add eggs
+
 
 Soup recipe
 1) Veg
+2) water
+3) salt
 
 Meat dish
 1) lamb
