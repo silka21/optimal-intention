@@ -2,11 +2,6 @@ Recipe book
 
 Cake recipe
 1) add milk
-2) add eggs
-3) add butter
-4) add flour
-5) add sugar
-6) put in oven
 
 Soup recipe
 1) Veg
