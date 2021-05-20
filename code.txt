@@ -5,6 +5,8 @@ Cake recipe
 
 Soup recipe
 1) Veg
+2) water
+3) salt
 
 Meat dish
 1) lamb
